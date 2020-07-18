@@ -1,1 +1,1 @@
-# Dynamic_itemset_counting
+# Dynamic itemset counting (DIC)
